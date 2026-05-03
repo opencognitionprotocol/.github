@@ -39,4 +39,7 @@ The future of intelligence is not a single system that knows everything. It is a
 🔗 **Official Website:** [opencognitionprotocol.org](https://www.opencognitionprotocol.org/)  
 📩 **Contact:** [opencognitionprotocol@gmail.com](mailto:opencognitionprotocol@gmail.com)
 ---
-_OCP is open source under the MIT license._
+### ⚖️ License
+The Open Cognition Protocol is released under the **[MIT License](https://github.com/OCP-Foundation/ocp-protocol/blob/main/LICENSE)**. 
+
+© 2026 OCP Foundation.
