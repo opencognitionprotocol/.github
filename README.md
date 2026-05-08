@@ -37,6 +37,7 @@ The future of intelligence is not a single system that knows everything. It is a
 
 ---
 🔗 **Official Website:** [opencognitionprotocol.org](https://www.opencognitionprotocol.org/)  
+📖 **Official Wiki:** [ocp-foundation.github.io/ocp-wiki](https://ocp-foundation.github.io/ocp-wiki/)  
 📩 **Contact:** [opencognitionprotocol@gmail.com](mailto:opencognitionprotocol@gmail.com)
 ---
 ### ⚖️ License
